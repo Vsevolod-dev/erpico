@@ -1,0 +1,1 @@
+{"version":1,"defects":[],"times":{"Tests\\Functional\\HomepageTest::testGetHomepageWithoutName":0.015,"Tests\\Functional\\HomepageTest::testGetHomepageWithGreeting":0.001,"Tests\\Functional\\HomepageTest::testPostHomepageNotAllowed":0.001}}
